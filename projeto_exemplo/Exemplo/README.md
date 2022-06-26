@@ -1,17 +1,26 @@
-## Getting Started
+# Bem vindo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem vindo ao meu repositório de estudo aula 001
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Estrutura dessa pasta
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Esse projeto tem algumas pastas principais:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- `src`: Essa pasta armazena as classes, é a pasta fonte.
+- `lib`: Isso aqui é uma pasta para dependências. 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## O que temos nesse projeto?
+
+- Uma classe Main
+- Uma classe Test
+  
+  A classe Main apenas realiza uma impressão e o mesmo vale apra a Test
+## O que eu aprendi?
+
+Para criar o método main posso apenas digitar `psvm` e caso tenha as extensões do Java para vscode, ao pressionar tab irá ser criado o método main.
+
+E para printar podemos digitar `sout`, que funciona da mesma forma que o psvm, ele cria todo o código para realizar a impressão.
 
 ## Dependency Management
 
