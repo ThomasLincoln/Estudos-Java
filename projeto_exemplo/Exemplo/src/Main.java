@@ -6,4 +6,4 @@ public class Main {
 }
 
 // psvm é como criar nosso método principal
-// primeiro objetivo, printar algo com sout[]
+// primeiro objetivo, printar algo com sout[x]
